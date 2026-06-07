@@ -1,7 +1,5 @@
 # QA Automation — Playwright + TypeScript
 
-[![Playwright Tests](https://github.com/upamaaaa/qa-automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/upamaaaa/qa-automation/actions/workflows/playwright.yml)
-
 End-to-end UI and API test automation suite for [SauceDemo](https://www.saucedemo.com), built with **Playwright** and **TypeScript** following the **Page Object Model** pattern.
 
 ---
@@ -223,3 +221,7 @@ All configuration lives in `playwright.config.ts`:
 ## Test Plan
 
 See [TEST_PLAN.md](./TEST_PLAN.md) for the full scope, test cases, edge cases, and risk register.
+
+## Report Screenshot
+
+![Playwright HTML Report](./reports/playwright-report.png)
